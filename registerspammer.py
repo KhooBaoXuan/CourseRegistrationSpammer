@@ -9,24 +9,24 @@ print('Press Ctrl-C to quit.')
 try:
     while True:
         # 1. 'Add Course' button
-       pyautogui.click(x=1086, y=361)
-       pyautogui.PAUSE = 2
+       pyautogui.click(x=1080, y=360)
+       pyautogui.PAUSE = 1.5
 
     #    2. Click 'OK' on the alert box
        pyautogui.click(x=1200, y=180)
-       pyautogui.PAUSE = 2
+       pyautogui.PAUSE = 1.5
 
-    #    3. Select Group 4
-       pyautogui.click(x=1319, y=218)
-       pyautogui.PAUSE = 2
+    #    3. Select Group 6
+       pyautogui.click(x=1320, y=270)
+       pyautogui.PAUSE = 1.5
 
     #    4. Click 'Submit'
        pyautogui.click(x=1344, y=300)
-       pyautogui.PAUSE = 2
+       pyautogui.PAUSE = 1.5
 
     #    5. Click 'OK' on "The course has reached maximum..."
        pyautogui.click(x=1200, y=306)
-       pyautogui.PAUSE = 2
+       pyautogui.PAUSE = 1.5
 
         # 6. Click on terminal for fail-safe
        pyautogui.click(x=445, y=500)
