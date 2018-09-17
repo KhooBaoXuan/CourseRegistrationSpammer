@@ -3,11 +3,11 @@ Install Python if you haven't done so already.
 
 Open Terminal (or CMD in Windows) and type in the following commands:
     
-    `git clone https://github.com/KhooBaoXuan/CourseRegistrationSpammer.git`
+    git clone https://github.com/KhooBaoXuan/CourseRegistrationSpammer.git
 
-    `cd CourseRegistrationSpammer`
+    cd CourseRegistrationSpammer
     
-    `pip3 install setuptools && pip3 install pyautogui`
+    pip3 install setuptools && pip3 install pyautogui
 
 ## How To Use: 
 #### (A) Get cursor coordinaton
