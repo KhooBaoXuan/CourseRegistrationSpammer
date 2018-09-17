@@ -1,4 +1,4 @@
-# Setup
+## Setup
 Install Python if you haven't done so already.
 
 Open Terminal (or CMD in Windows) and type in the following commands:
@@ -9,8 +9,8 @@ Open Terminal (or CMD in Windows) and type in the following commands:
     
     `pip3 install setuptools && pip3 install pyautogui`
 
-# How To Use: 
-### (A) Get cursor coordinaton
+## How To Use: 
+#### (A) Get cursor coordinaton
  1. Run the determine_coordinate.py file to get the cursor coordinate location of the designated buttons.
 
     `python3 get_cursor_coordinate.py`
@@ -29,7 +29,7 @@ Open Terminal (or CMD in Windows) and type in the following commands:
 6. As a fail-safe, jot down your cursor coordination inside your terminal as the last click. 
     #### note: depends on situation, there will be around 6 clicks including the fail-safe click.
 
-### (B) Edit the code
+#### (B) Edit the code
 Using your favorite code editor. Edit 'registerspammer' python file and replace the coordinates that you jotted earlier. Read the comment, make sure you didn't paste the wrong coordinate.
 
 ![Modify cursor coordinate](./assets/modify_cursor_coordinate.png)
@@ -38,6 +38,6 @@ Be patient and profit!
 
 
 
-### (C) Stop the program
+#### (C) Stop the program
 
 When the cursor stops at the terminal, quickly press 'Ctrl-C' to halt the program. 
