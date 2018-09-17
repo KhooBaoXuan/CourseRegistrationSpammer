@@ -39,4 +39,4 @@ Be patient and profit!
 
 ### (C) Stop the program
 
-When the cursor stops at the terminal, quickly press 'Ctrl + C' to halt the program. 
+When the cursor stops at the terminal, quickly press 'Ctrl-C' to halt the program. 

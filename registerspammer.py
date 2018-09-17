@@ -6,6 +6,7 @@ import pyautogui, sys
 print('Press Ctrl-C to quit.')
 
 # Automate clicking action
+# There will be a slight pause between each click, to enable you to gain control over the program and halt it.
 try:
     while True:
         # 1. 'Add Course' button
@@ -16,7 +17,7 @@ try:
        pyautogui.click(x=1200, y=180)
        pyautogui.PAUSE = 1.5
 
-    #    3. Select Group 6
+    #    3. Select Group
        pyautogui.click(x=1320, y=270)
        pyautogui.PAUSE = 1.5
 
