@@ -20,17 +20,18 @@ Open Terminal (or CMD in Windows) and type in the following commands:
 3. Snap your browser window to one side and the terminal running the program to the other side.
 ![Snap windows side-by-side](./assets/snapping_windows.png)
     #### note: resize your browser window to 90% or smaller so that certain button won't overshoot causing the cursor cannot find the button.
+4. Key in your desired Course code.
 
-3. Key in your desired Course code.
 ![Key in desired course code](./assets/enter_course_code.png)
 
-4. Dry run once and jot down the cursor's coordination of all the buttons that needed to click to complete the registration.
+5. Dry run once and jot down the cursor's coordination of all the buttons that needed to click to complete the registration.
 
-5. As a fail-safe, jot down your cursor coordination inside your terminal as the last click. 
+6. As a fail-safe, jot down your cursor coordination inside your terminal as the last click. 
     #### note: depends on situation, there will be around 6 clicks including the fail-safe click.
 
 ### (B) Edit the code
 Using your favorite code editor. Edit 'registerspammer' python file and replace the coordinates that you jotted earlier. Read the comment, make sure you didn't paste the wrong coordinate.
+
 ![Modify cursor coordinate](./assets/modify_cursor_coordinate.png)
 
 Be patient and profit!
