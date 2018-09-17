@@ -1,5 +1,5 @@
 ## Setup
-Install Python if you haven't done so already.
+Install [Python](https://www.python.org/downloads/) if you haven't done so already.
 
 Open Terminal (or CMD in Windows) and type in the following commands:
     
